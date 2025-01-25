@@ -20,3 +20,8 @@ A aplicação consiste em uma pesquisa de preferência de games, onde os dados s
 - HTML
 - CSS
 - JavaScript 
+
+# Autor
+Rafael Soldatelli da Rosa
+
+https://www.linkedin.com/in/rafasoldatelli
