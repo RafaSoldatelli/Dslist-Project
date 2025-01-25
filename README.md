@@ -9,3 +9,14 @@ A aplicação consiste em uma pesquisa de preferência de games, onde os dados s
 
 ## Modelo conceitual
 ![Modelo de domínio DSList](https://raw.githubusercontent.com/devsuperior/java-spring-dslist/main/resources/dslist-model.png)
+
+# Tecnologias utilizadas
+## Back end
+- Java
+- Spring Boot
+- JPA / Hibernate
+- Maven
+## Front end (a ser implementado)
+- HTML
+- CSS
+- JavaScript 
