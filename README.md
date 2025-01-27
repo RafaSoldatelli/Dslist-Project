@@ -16,7 +16,7 @@ A aplicação consiste em uma pesquisa de preferência de games, onde os dados s
 - Spring Boot
 - JPA / Hibernate
 - Maven
-## Front end (a ser implementado)
+## Front end
 - HTML
 - CSS
 - JavaScript 
