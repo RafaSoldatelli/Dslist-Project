@@ -15,7 +15,7 @@ document.addEventListener("DOMContentLoaded", async () => {
 
     try {
         // Faz a requisição do jogo específico
-        const response = await fetch(`http://localhost:8080/games/${jogoId}`);
+        const response = await fetch(`https://dslist-project-production.up.railway.app/${jogoId}`);
         if (!response.ok) {
             throw new Error("Erro ao buscar detalhes do jogo");
         }

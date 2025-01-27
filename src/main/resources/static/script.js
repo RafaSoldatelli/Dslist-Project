@@ -1,7 +1,7 @@
 // Endpoint para listar todos os jogos
-const GET_GAMES_URL = "http://localhost:8080/games";
+const GET_GAMES_URL = "https://dslist-project-production.up.railway.app/games";
 // Endpoint para reordenar posições
-const REPLACE_URL = "http://localhost:8080/lists/1/replacement"; // Ajuste conforme necessário
+const REPLACE_URL = "https://dslist-project-production.up.railway.app/lists/1/replacement"; // Ajuste conforme necessário
 
 let jogos = []; // Array global para armazenar os jogos
 let isDragging = false; // Variável para rastrear se estamos arrastando
