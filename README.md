@@ -21,12 +21,15 @@ A aplicação consiste em uma pesquisa de preferência de games, onde os dados s
 - CSS
 - JavaScript
 
-# Como utilizar(local)
-- baixar projeto
-  - alterar o arquivo application.properties em resources
-  - alterar spring.profiles.active=${APP_PROFILE:prod} para spring.profiles.active=${APP_PROFILE:test}
-  - com a alteração será configurado o ambiente local para execução
-  - buscar por http://localhost:8080/index.html
+# Como utilizar (local)
+- Baixar o projeto
+- Alterar o arquivo application.properties em resources
+- Modificar a linha:
+  spring.profiles.active=${APP_PROFILE:prod}
+  para:
+  spring.profiles.active=${APP_PROFILE:test}
+- Com esta alteração, o ambiente local será configurado para execução
+- Acessar através do link: http://localhost:8080/index.html
 
 # Autor
 Rafael Soldatelli da Rosa
